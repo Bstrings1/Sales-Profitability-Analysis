@@ -21,7 +21,7 @@ This Power BI project provides a comprehensive analysis of total sales, profit, 
 
 - `Sales_Profitability.pbix`: Power BI file containing the full dashboard.
 - `Dashboard_Screenshot.png`: A snapshot of the dashboard for quick viewing.
-- `data/`: Contains the sales dataset used in the analysis.
+- `sales_data`: Contains the sales dataset used in the analysis.
 
 ## 📌 Tools Used
 
