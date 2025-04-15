@@ -5,6 +5,7 @@ This Power BI project provides a comprehensive analysis of total sales, profit, 
 ## 📊 Dashboard Overview
 
 ![Dashboard Screenshot](Dashboard_Screenshot.png)
+[Power BI File](sales_data.pbix)
 
 - **Total Sales** grew from $470K in 2015 to $733K in 2017.
 - **Profit Margin** increased from 10% in 2014 to over 13% in 2016.
